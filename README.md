@@ -2,7 +2,7 @@
 My first Git repository
 <br>
 Author - Harshit Maru<h1 align="center">Hi 👋, I'm Harshit Maru</h1>
-<h3 align="center">A Electrical Engineer from India</h3>
+<h3 align="center">A Computer Engineering from India</h3>
 
 - 📫 Get in touch *harshitmaru007.com*
 
